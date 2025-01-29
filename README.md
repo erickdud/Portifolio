@@ -25,7 +25,7 @@ Este portfólio foi desenvolvido para:
 
 ## 🌐 Demonstração
 
-Você pode acessar o portfólio clicando [aqui](#) (adicione o link da página ao publicá-lo online).
+Você pode acessar o portfólio clicando [aqui](https://erickdud.github.io/Portifolio/) 
 
 ## 🛠️ Tecnologias Utilizadas
 
